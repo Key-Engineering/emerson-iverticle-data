@@ -1,0 +1,48 @@
+Store,Catagory,Sub Catagory,Sub Catagory 2,Sub Catagory 3,Product Name,Name,Serial,Model,Size,Date of Manufacture,Fuel Type,VFD,Economizer,Power Exhaust,Heating Stages,Cooling Stages,Reheat/Dehumidification,Notes,Heatpump
+,,,Brand,,Series,,,,,,,,,,,,,,
+00038,Assets,HVAC,York,Package Unit,Generic,R1 FRONT,,,,,Propane,,Yes,No,2,2,No,,No
+00038,Assets,HVAC,York,Package Unit,Generic,R2 REAR/MC,,,,,Propane,,Yes,No,2,2,No,,No
+00038,Assets,HVAC,York,Package Unit,Generic,R3 RX/LOUNGE,,,,,Propane,,Yes,No,1,1,No,,No
+00038,Assets,HVAC,York,Package Unit,Generic,R4 STOCK,,,,,Propane,,Yes,No,1,1,No,,No
+00038,Assets,HVAC,York,Package Unit,Generic,R5 ENTRANCE,,,,,Propane,,Yes,No,1,1,No,,No
+08539,Assets,HVAC,Generic,Air Handler,Generic,AHU MAIN,,,,,,,,,,,,,
+08539,Assets,HVAC,Generic,Package Unit,Generic,R1 RX,,,,,,,,,,,,,
+08539,Assets,HVAC,Generic,Air Handler,Generic,Z1 FRONT,,,,,,,,,,,,,
+08539,Assets,HVAC,Generic,Air Handler,Generic,Z2 REAR,,,,,,,,,,,,,
+08539,Assets,HVAC,Generic,Air Handler,Generic,Z3 LOUNGE,,,,,,,,,,,,,
+08539,Assets,HVAC,Generic,Air Handler,Generic,Z4 STOCK,,,,,,,,,,,,,
+08539,Assets,HVAC,Generic,Air Handler,Generic,Z5 STOCK,,,,,,,,,,,,,
+08539,Assets,Refrigeration,Generic,Unkown,Generic,BEV NORTH,,,,,,,,,,,,,
+08539,Assets,Refrigeration,Generic,Cooler,Generic,BEV SOUTH,,,,,,,,,,,,,
+08539,Assets,Refrigeration,Generic,Freezer,Generic,RIFF FRZR,,,,,,,,,,,,,
+08800,Assets,Refrigeration,Generic,Walk In,Generic,01 WALK IN CLR,,,,,,,,,,,,,
+10649,Assets,HVAC,Trane,Package Unit,YHD150,R1 FRONT,172011201D,YHD150G3RHB05P0B0A1A1000000000000000,12.5,,Propane,,Yes,Yes,2,2,No,,No
+10649,Assets,HVAC,Trane,Package Unit,YHD150,R2 REAR,172011205D,YHD150G3RHB05P0B0A1A1000000000000000,12.5,5/1/2017,Propane,,Yes,Yes,2,2,No,,No
+10649,Assets,HVAC,Trane,Package Unit,YHC048,R3 RX,172110036L,YHC048F3RLA1RP2B0A1A000A10000C000000000,4,5/1/2017,Propane,,Yes,No,1,1,No,,No
+10649,Assets,HVAC,Trane,Package Unit,YHC060,R4 STOCK,172011722L,YHC060F3RHA1RP0B0A1A10000C0000000000,5,5/1/2017,Propane,,Yes,No,1,1,No,,No
+10649,Assets,HVAC,Trane,Package Unit,4YCC,R5 OFFICE,171814004L,4YCC4024A1060A,2.46,,Propane,,No,No,1,1,No,,No
+10649,Assets,Lighting,Generic,,LRP,ACCENT LTS,,,,,,,,,,,,,
+10649,Assets,Lighting,Generic,,LRP,EMPLOYEE LTS,,,,,,,,,,,,,
+10649,Assets,Lighting,Generic,,LRP,OUTSIDE LTS,,,,,,,,,,,,,
+10649,Assets,Lighting,Generic,,LRP,OUTSIDE SIGNS,,,,,,,,,,,,,
+10649,Assets,Lighting,Generic,,LRP,PHARMACY LTS,,,,,,,,,,,,,
+10649,Assets,Lighting,Generic,,LRP,SALES LTS,,,,,,,,,,,,,
+10649,Assets,Lighting,Generic,,LRP,WALL PACKS,,,,,,,,,,,,,
+10649,Assets,Lighting,Generic,,LRP,WATER HEATER,,,,,,,,,,,,,
+00038,Assets,EMS,Generic,,EMS,,,,,,,,,,,,,,
+08539,Assets,EMS,Generic,,EMS,,,,,,,,,,,,,,
+10649,Assets,EMS,Generic,,EMS,,,,,,,,,,,,,,
+00038,Assets,Lighting,Generic,,LRP,LRP,,,,,,,,,,,,,
+08539,Assets,Lighting,Generic,,LRP,LRP,,,,,,,,,,,,,
+10649,Assets,Lighting,Generic,,LRP,LRP,,,,,,,,,,,,,
+00038,Assets,Lighting,Generic,,LRP,ACCENT LTS,,,,,,,,,,,,,
+00038,Assets,Lighting,Generic,,LRP,EMPLOYEE LTS,,,,,,,,,,,,,
+00038,Assets,Lighting,Generic,,LRP,OUTSIDE LTS,,,,,,,,,,,,,
+00038,Assets,Lighting,Generic,,LRP,OUTSIDE SIGNS,,,,,,,,,,,,,
+00038,Assets,Lighting,Generic,,LRP,PHARMACY LTS,,,,,,,,,,,,,
+00038,Assets,Lighting,Generic,,LRP,SALES LTS,,,,,,,,,,,,,
+00038,Assets,Lighting,Generic,,LRP,WALL PACKS,,,,,,,,,,,,,
+00038,Assets,Lighting,Generic,,LRP,WATER HEATER,,,,,,,,,,,,,
+08539,Assets,Lighting,Generic,,LRP,ACCENT LTS,,,,,,,,,,,,,
+08539,Assets,Lighting,Generic,,LRP,EMPLOYEE LTS,,,,,,,,,,,,,
+08539,Assets,Lighting,Generic,,LRP,SALES LTS,,,,,,,,,,,,,
